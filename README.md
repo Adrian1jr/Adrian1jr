@@ -30,17 +30,17 @@ I am a Front End Developer from Nuevo Laredo.
   <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/microsoft-sql-server-logo.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/microsoft-sql-server-logo.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adrian1jr&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian1jr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
