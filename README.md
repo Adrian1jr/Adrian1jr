@@ -27,7 +27,6 @@ I am a Front End Developer from Nuevo Laredo.
   <img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://library.kissclipart.com/20181123/oyq/kissclipart-sql-db-clipart-microsoft-azure-sql-database-d8fe86afd77ee124.jpg" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
 </div>
 
 ---
