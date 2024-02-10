@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <h1>
-      Hi I´m Adrian Tapia, Front End Developer
+      Hi I´m Adrian Tapia, Full Stack Developer
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### :woman_technologist: About Me :
-I am a Front End Developer from Nuevo Laredo.
+I am a Full Stack Developer from Nuevo Laredo.
 - :telescope: I’m working as a Computer Systems Engineer and contributing to frontend and backend for building web and desktop applications.
 
 - :zap: In my free time, I build my portfolio and learn new things with some courses on Udemy.
