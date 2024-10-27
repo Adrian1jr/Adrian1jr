@@ -8,11 +8,12 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer from Nuevo Laredo.
-- :telescope: I’m working as a Computer Systems Engineer and contributing to frontend and backend for building web and desktop applications.
+- Full-stack developer. With +5 years of experience.
 
-- :zap: In my free time, I build my portfolio and learn new things with some courses on Udemy.
+- Co-Founder of a custom software company called <a href="https://www.doozypanda.com/" style="text-decoration: none;">Doozy Panda</a>
+and a Website Design and Development company called <a href="https://www.laredowebdesigns.com" style="text-decoration: none;">Laredo Web Designs</a>.
 
+- My Portfolio: <a href="https://www.adrianjr.dev" style="text-decoration: none;">adrianjr.dev</a>.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,7 +27,7 @@ I am a Full Stack Developer from Nuevo Laredo.
   <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
