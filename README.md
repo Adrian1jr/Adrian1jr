@@ -72,7 +72,7 @@ and a Website Design and Development company called <a href="https://www.laredow
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-### :fire: My Stats :
+### Github Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adrian1jr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian1jr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
