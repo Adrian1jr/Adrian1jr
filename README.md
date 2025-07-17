@@ -6,10 +6,10 @@
 ### About Me :
 - Full-stack developer. With +5 years of experience. Focused on the development of websites and web applications.
 
-- Co-Founder of a custom software company called <a href="https://www.doozypanda.com/" style="text-decoration: none;">Doozy Panda</a>
-and a Website Design and Development company called <a href="https://www.laredowebdesigns.com" style="text-decoration: none;">Laredo Web Designs</a>.
+- Co-Founder of a custom software company called <a href="https://www.doozypanda.com/" style="text-decoration: none;" target="_blank">Doozy Panda</a>
+and a Website Design and Development company called <a href="https://www.laredowebdesigns.com" style="text-decoration: none;" target="_blank">Laredo Web Designs</a>.
 
-- My Portfolio: <a href="https://www.adrianjr.dev" style="text-decoration: none;">adrianjr.dev</a>.
+- My Portfolio: <a href="https://www.adrianjr.dev" style="text-decoration: none;" target="_blank">adrianjr.dev</a>.
 
 ### Languages and Tools :
 <div align="left">
