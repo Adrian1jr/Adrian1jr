@@ -14,7 +14,6 @@
 and a Website Design and Development company called <a href="https://www.laredowebdesigns.com" style="text-decoration: none;">Laredo Web Designs</a>.
 
 - My Portfolio: <a href="https://www.adrianjr.dev" style="text-decoration: none;">adrianjr.dev</a>.
----
 
 ### Languages and Tools :
 <div align="left">
@@ -72,9 +71,6 @@ and a Website Design and Development company called <a href="https://www.laredow
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
-
----
-
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adrian1jr&theme=dark&background=000000)](https://git.io/streak-stats)
